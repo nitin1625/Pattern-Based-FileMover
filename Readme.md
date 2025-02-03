@@ -47,7 +47,7 @@ Pattern-Based FileMover is a Python application that automates file transfers (c
 {
   "source_directory": "/path/to/source",
   "destination_directory": "/path/to/destination",
-  "copy_files": true,  // or false for Move Files
+  "copy_files": true,  # or false for Move Files
   "preserve_directory_structure": true,
   "rename_duplicates": false,
   "exclude_patterns": ["temp_*", "*.bak"]
