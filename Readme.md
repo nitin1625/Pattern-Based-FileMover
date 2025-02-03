@@ -52,3 +52,11 @@ Pattern-Based FileMover is a Python application that automates file transfers (c
   "rename_duplicates": false,
   "exclude_patterns": ["temp_*", "*.bak"]
 }
+
+```
+
+## Test and Run 
+
+* Direct to dist folder and run .exe file as per requirement .
+* exclude.exe for tasks related to File Mover with Exclusion patterns .
+* include.exe for tasks related to File Mover With Inclusion Patterns.
