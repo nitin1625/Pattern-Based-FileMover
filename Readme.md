@@ -23,7 +23,7 @@ Pattern-Based FileMover is a Python application that automates file transfers (c
 1.  **Prerequisites:** Python must be installed. Tkinter is typically included with standard Python installations.
 2.  **Clone Repository:** 
     ```
-    git clone [\[repository URL\]](https://github.com/nitin1625/Pattern-Based-FileMover.git)
+    git clone https://github.com/nitin1625/Pattern-Based-FileMover.git
     ```
 3.  **Run:**
     ```
